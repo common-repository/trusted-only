@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trusted Only v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-10 05:09+0200\n"
+"PO-Revision-Date: 2013-03-20 03:28:17+0000\n"
+"Last-Translator: Andrey K. <v5@bk.ru>\n"
+"Language-Team: <v5@bk.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: trusted-only.php:66
+#@ trusted
+msgid "Trusted Users"
+msgstr "Доверенные участники"
+
+#: trusted-only.php:118
+#@ trusted
+msgid "List users who may read your blog"
+msgstr "Перечислите пользователей, которые могут читать ваш блог"
+
+#: trusted-only.php:123
+#@ trusted
+msgid "Usernames separated by spaces or commas"
+msgstr "Логины пользователей, через запятую или пробел"
+
+#: trusted-only.php:135
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: trusted-only.php:66
+#@ trusted
+msgid "Trusted Users List"
+msgstr "Список доверенных пользователей"
+
+#: trusted-only.php:61
+#, php-format
+#@ trusted
+msgid "Sorry, you can not read this site %s because the site owner allows access for several users only.<br />You are signed in now as %s."
+msgstr "Вы не можете смотреть сайт %s, потому что его владелец разрешил доступ только для некоторых пользователей.<br />Вы сейчас залогинены как %s."
+
+#: trusted-only.php:73
+#@ trusted
+msgid "Only several authorized users may read this site. If you are one of them please sign in."
+msgstr "Только некоторые пользователи могут читать этот сайт. Если вы один из них, авторизуйтесь."
+
+#: trusted-only.php:131
+#@ trusted
+msgid "A message for display on the login page (optional)"
+msgstr "Сообщение, отображаемое на странице входа (если хотите)"
+
+#: trusted-only.php:113
+#@ trusted
+msgid "Options Saved"
+msgstr "Настройки сохранены"
+
+#: trusted-only.php:127
+#@ trusted
+msgid "Allow spaces in usernames"
+msgstr "Разрешить логины, содержащие пробелы"
+
+#: trusted-only.php:128
+#@ trusted
+msgid "then you should separate usernames by commas"
+msgstr "тогда требуется отделять логины запятыми"
+
